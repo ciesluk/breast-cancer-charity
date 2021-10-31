@@ -8,7 +8,7 @@
 4. To open the website, open the project folder on your computer
 5. Double click the index.html and the project will open on your default browser
 
-# Link to Heroku: 
+# Link to Heroku: https://breast-cancer-charity.herokuapp.com/
 
 # License
 Copyright(c) 2021 Tom Cieslukowski
