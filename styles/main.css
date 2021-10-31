@@ -1,0 +1,122 @@
+/*main.css
+  Major Assignment 1
+
+  Revision History
+     Tom C, 2021.06.30: Created
+*/
+
+html{
+    background-color: white;
+}
+
+/*Body Styles*/
+
+body{
+    width: 1230px;
+    margin: 0 auto;
+    background-image:
+		linear-gradient(30deg, lightpink 0% pink 30%, white 50%, pink 80%, lightpink 100%);
+	background-image:
+		-webkit-linear-gradient(30deg, lightpink 0%, pink 30%, white 50%, pink 80%, lightpink 100%);
+	background-image:
+		-moz-linear-gradient(30deg, lightpink 0%, pink 30%, white 50%, pink 80%, lightpink 100%);
+	background-image:
+		-o-linear-gradient(30deg, lightpink 0%, pink 30%, white 50%, pink 80%, lightpink 100%);
+    border: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Link Styles*/
+
+a:link{
+    color: #268DC0;
+    font-weight: bold;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover, a:focus{
+    color:#cc33ff;
+    font-style: italic;
+}
+
+/*Header Styles*/
+
+header{
+    border-bottom: 3px solid black;
+    padding: 1.5em 0;
+    background-color: lightcoral;
+}
+
+header img{
+    float: left;
+    padding: 0 30px;
+}
+
+header h1{
+    font-size: 190%;
+}
+
+header h2{
+    font-size: 100%;
+    color:azure;
+    font-style: italic;
+}
+
+/*Main Styles*/
+
+main{
+    width: 860px;
+    float: left;
+    margin: 0 12px;
+}
+
+main img{
+    float: left;
+    padding: 1em;
+}
+
+/*First Title in main Styles*/
+
+#firstTitle{
+    text-align: center;
+    font-size: 25px;
+    margin: .5em 0;
+    text-shadow: 2px 2px 2px gray;
+}
+
+/*Aside styles*/
+
+aside{
+    width: 340px;
+    float: right;
+}
+
+aside ul li{
+    padding-bottom: 8px;
+}
+
+aside ol li{
+    padding-bottom: 8px;
+}
+
+.listTitle{
+    text-align: center;
+    color: #cc33ff;
+}
+
+/*Footer Styles*/
+
+footer{
+    clear: both;
+    border-top: 3px solid black;
+    padding: 2px;
+    background-color: lightcoral;
+}
+
+footer p{
+    text-align: center;
+    font-weight: bold;
+}
