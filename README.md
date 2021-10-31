@@ -1,5 +1,5 @@
 # Breast Cancer Charity Website
-#Created by Tom Cieslukowski
+# Created by Tom Cieslukowski
 
 # How to Install
 1. Download this project repository and open Visual Studio Code
