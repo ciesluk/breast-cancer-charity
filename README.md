@@ -10,6 +10,18 @@
 
 # Link to Heroku: https://breast-cancer-charity.herokuapp.com/
 
+# How to deploy on Heroku
+1. Download this project repository and open Visual Studio Code
+2. Open this project repository download with Visual Studio Code or drag and drop to Visual Studio Code
+3. At the top of Visual Studio Code, hit Terminal, then hit Open New Terminal
+4. Download the Heroku CLI - found here https://devcenter.heroku.com/articles/heroku-cli
+5. On the terminal, type "heroku login" enter your credentials
+6. Continue on the terminal, type "heroku git:clone -a porject name"
+7. Continue on the terminal, type "git add ."
+8. Continue on the terminal, type "git commit -am "make it better"
+9. Finally, continue on the terminal, type "git push heroku master"
+10. Now porject will be live on the link provided on the terminal
+
 # License
 Copyright(c) 2021 Tom Cieslukowski
 
