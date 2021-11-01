@@ -8,6 +8,9 @@
 4. To open the website, open the project folder on your computer
 5. Double click the index.html and the project will open on your default browser
 
+# Description
+This is a breast cancer charity web page. Created for my web foundations course at Conestoga College. The webpage contains lists, links, two pages, header/footer, semantic elements, etc. The web page was made with HTML, and CSS. I have deployed this page on to Heroku.
+
 # Link to Heroku: https://breast-cancer-charity.herokuapp.com/
 
 # How to deploy on Heroku
